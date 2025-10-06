@@ -28,4 +28,5 @@ This project analyzes startup funding trends using Crunchbase data and predicts 
 
 ---
 
-✅ Built by Dhanya Ratna Madhuri  
+✅ Built by Bhargav
+
